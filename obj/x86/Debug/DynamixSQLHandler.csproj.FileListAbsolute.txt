@@ -1,0 +1,8 @@
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\bin\x86\Debug\DynamixSQLHandler.dll
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\bin\x86\Debug\DynamixSQLHandler.pdb
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\bin\x86\Debug\DynamixLogger.dll
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\x86\Debug\DynamixSQLHandler.csprojAssemblyReference.cache
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\x86\Debug\DynamixSQLHandler.csproj.CoreCompileInputs.cache
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\x86\Debug\DynamixSQLHandler.csproj.CopyComplete
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\x86\Debug\DynamixSQLHandler.dll
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\x86\Debug\DynamixSQLHandler.pdb

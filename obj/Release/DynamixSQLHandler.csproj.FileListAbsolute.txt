@@ -1,0 +1,14 @@
+D:\Codex-Bak\BioMetrix-30-03-2017-5-40\DynamixSQLHandler\bin\Release\DynamixSQLHandler.dll
+D:\Codex-Bak\BioMetrix-30-03-2017-5-40\DynamixSQLHandler\bin\Release\DynamixSQLHandler.pdb
+D:\Codex-Bak\BioMetrix-30-03-2017-5-40\DynamixSQLHandler\obj\Release\DynamixSQLHandler.csproj.CoreCompileInputs.cache
+D:\Codex-Bak\BioMetrix-30-03-2017-5-40\DynamixSQLHandler\obj\Release\DynamixSQLHandler.dll
+D:\Codex-Bak\BioMetrix-30-03-2017-5-40\DynamixSQLHandler\obj\Release\DynamixSQLHandler.pdb
+D:\Codex-Bak\BioMetrix-30-03-2017-5-40\DynamixSQLHandler\obj\Release\DynamixSQLHandler.csprojResolveAssemblyReference.cache
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\bin\Release\DynamixSQLHandler.dll
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\bin\Release\DynamixSQLHandler.pdb
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\bin\Release\DynamixLogger.dll
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\Release\DynamixSQLHandler.csprojAssemblyReference.cache
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\Release\DynamixSQLHandler.csproj.CoreCompileInputs.cache
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\Release\DynamixSQLHandler.csproj.CopyComplete
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\Release\DynamixSQLHandler.dll
+D:\Workspace\WindowForm\CrusherApplication\DynamixSQLHandler\obj\Release\DynamixSQLHandler.pdb
